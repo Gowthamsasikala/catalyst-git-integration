@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "261000000272011",
+      "name": "gitIntegration",
+      "domain": {
+        "id": "10067183470",
+        "name": "gitintegration-771562951.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "771562951",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

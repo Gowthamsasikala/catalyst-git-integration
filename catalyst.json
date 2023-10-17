@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "gitFunctionTest"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"name": "gitfunctiontest",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "gowtham.purushoth@zohocorp.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
